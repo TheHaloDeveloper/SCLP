@@ -237,7 +237,7 @@ def refresh_scotw():
 
     webhook_content = f"""
 SC of the Week
-# [{selection['name']}](https://sclp.vercel.app/?t={selection['id']})
+# [{selection['name']}](https://sclp.pro/?t={selection['id']})
 
 Difficulty: {diff_emoji} {diff_name}
 
